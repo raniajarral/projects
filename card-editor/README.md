@@ -26,9 +26,9 @@ Connect Cards Editor is a secure customization tool that lets users fully edit t
 
 > This project is private, but here’s a look at what it does:
 
-- ![screenshot1](screenshots/login.png)
-- ![screenshot2](screenshots/profile.png)
-- ![screenshot3](screenshots/colorpicker.png) 
+- ![screenshot1](login.png)
+- ![screenshot2](profile.png)
+- ![screenshot3](colorpicker.png) 
 
 ---
 
