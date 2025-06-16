@@ -3,7 +3,7 @@
 **Type:** Mobile App • **Built With:** Flutter + Firebase Firestore  
 **Status:** Private (Code not publicly available)
 
-Connect Cards is a tap-to-share business profile app built for students, professionals, and freelancers. Users can instantly share a clean, fully customized personal profile using NFC or QR code technology. It focuses on minimal, elegant presentation of the user’s key information.
+Connect Cards is a tap-to-share business profile app built for students, professionals, and freelancers. Users can instantly share a clean, fully customized personal profile using NFC or QR code technology. It focuses on a minimal, elegant presentation of the user’s key information.
 
 ---
 
@@ -24,8 +24,8 @@ Connect Cards is a tap-to-share business profile app built for students, profess
 
 > This project is private, but here’s a look at what it does:
 
-- ![screenshot1](profile2.png)
-- ![screenshot2](profile1.png)
+- ![screenshot1](profile2.jpg)
+- ![screenshot2](profile1.jpg)
 
 ---
 
