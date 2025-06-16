@@ -26,10 +26,10 @@ PRAX ADMIN is a mobile-first backend management app built to streamline order tr
 
 > This project is private, but here’s a look at what it does:
 
-- ![screenshot1](ss1.png)
-- ![screenshot2](ss2.png)
-- ![screenshot3](ss3.png)
-- ![screenshot3](ss4.png)
+- ![screenshot1](ss1.jpg)
+- ![screenshot2](ss2.jpg)
+- ![screenshot3](ss3.jpg)
+- ![screenshot3](ss4.jpg)
 
 ---
 
