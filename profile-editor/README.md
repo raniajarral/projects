@@ -1,4 +1,4 @@
-# Connect Cards Editor – NFC Business Card Customizer
+# Connect Profile Editor – NFC Business Card Customizer
 
 **Type:** Mobile/Web App • **Built With:** Flutter + Firebase Firestore  
 **Status:** Private (Code not publicly available)
