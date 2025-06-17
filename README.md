@@ -9,7 +9,7 @@ Welcome to my portfolio showcase! This repository is a **read-only showcase** of
 ### 🔗 [Connect – NFC Business Profile Viewer](./connect/README.md)
 A mobile app that displays personalized digital business cards through NFC and QR codes. Includes theme customization, link sharing, and branded layouts.
 
-### 🔗 [Connect – NFC Business Profile Viewer](./connect-creator/README.md)
+### 🔗 [Connect Creator – NFC/Link Profile Creator](./connect-creator/README.md)
 A dynamic profile-building app made for admins and affiliates who need to create, manage, and share digital business cards. With distinct modes for Basic and Premium users, it offers a flexible and scalable system to generate stylish profiles linked to QR codes or NFC smart cards.
 
 ### 🛠️ [Connect Profile Editor – NFC Profile Customizer](./profile-app/README.md)
