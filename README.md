@@ -6,7 +6,7 @@ Welcome to my portfolio showcase! This repository is a **read-only showcase** of
 
 ## 📱 Featured Projects
 
-### 🔗 [Connect Cards – NFC Business Profile Viewer](./connect-cards/README.md)
+### 🔗 [Connect Cards – NFC Business Profile Viewer](./connect/README.md)
 A mobile app that displays personalized digital business cards through NFC and QR codes. Includes theme customization, link sharing, and branded layouts.
 
 ### 🛠️ [Connect Cards Editor – NFC Profile Customizer](./editor-app/README.md)
