@@ -71,6 +71,7 @@ Connect Cards Creator is a dynamic profile-building app made for admins and affi
 - ![screenshot2](p2.jpg)
 - ![screenshot3](p3.jpg)
 - ![screenshot4](p4.jpg)
+- ![screenshot4](p5.jpg)
 
 ---
 
