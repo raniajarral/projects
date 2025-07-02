@@ -1,4 +1,4 @@
-o# Rania Jarral – Project Portfolio
+Rania Jarral – Projects
 
 Welcome to my portfolio showcase! This repository is a **read-only showcase** of selected projects:)
 
