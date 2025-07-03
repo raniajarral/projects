@@ -7,7 +7,7 @@ Connect Cards Editor is a secure customization tool that lets users fully edit t
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Secure Login** with authentication
 - **Edit Profile Details**: Username, password, contact info
@@ -22,26 +22,24 @@ Connect Cards Editor is a secure customization tool that lets users fully edit t
 
 ---
 
-## 📸 Preview
+## Preview
 
-> This project is private, but here’s a look at what it does:
-
+> This project is private, but here’s a look at what it does: https://card-editor-app.web.app/
+**You can check the app out using these credentials:) username: testprofile | password: 123456** 
 - ![screenshot1](login.png)
 - ![screenshot2](profile.png)
 - ![screenshot3](colorpicker.png) 
 
 ---
 
-## 🔒 Code Access
+## Code Access
 
 The source code is **not publicly available**. If you're a collaborator, please request access. For demos, reach out directly.
 
 ---
 
-## 🧑‍💻 Built By
+## Built By
 
 **Rania Jarral**  
-Email: raniajarral9.email@gmail.com  
-GitHub: [@raniajarral](https://github.com/raniajarral)  
-
+Email: raniajarral9.email@gmail.com 
 ---
