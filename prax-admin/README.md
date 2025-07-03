@@ -7,7 +7,7 @@ PRAX ADMIN is a mobile-first backend management app built to streamline order tr
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Affiliate Management**: Monitor affiliate performance and account details
 - **Client Management**: View and organize customer profiles
@@ -17,12 +17,12 @@ PRAX ADMIN is a mobile-first backend management app built to streamline order tr
 - **Firebase Firestore Backend**: Realtime, cloud-based database
 - **Mobile-Optimized UI**: Minimal, fast, and easy to use
 - **Coming Soon**:
-  - 📧 **Order Confirmation Emails**
-  - 🚚 **Shipping Status Email Reminders**
+  - **Order Confirmation Emails**
+  - **Shipping Status Email Reminders**
 
 ---
 
-## 📸 Preview
+## Preview
 
 > This project is private, but here’s a look at what it does:
 
@@ -33,16 +33,14 @@ PRAX ADMIN is a mobile-first backend management app built to streamline order tr
 
 ---
 
-## 🔒 Code Access
+## Code Access
 
 The source code is **not publicly available**. If you're a collaborator, please request access. For demos, reach out directly.
 
 ---
 
-## 🧑‍💻 Built By
+## Built By
 
 **Rania Jarral**  
 Email: raniajarral9.email@gmail.com  
-GitHub: [@raniajarral](https://github.com/raniajarral)
-
 ---
