@@ -7,7 +7,7 @@ Connect Cards Creator is a dynamic profile-building app made for admins and affi
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Secure Login System**
   - Authenticates users through Firebase using username and password
@@ -63,7 +63,7 @@ Connect Cards Creator is a dynamic profile-building app made for admins and affi
 
 ---
 
-## 📸 Preview
+## Preview
 
 > This project is private, but here’s a look at what it does:
 
@@ -75,7 +75,7 @@ Connect Cards Creator is a dynamic profile-building app made for admins and affi
 
 ---
 
-## 🔒 Code Access
+## Code Access
 
 The source code is **not publicly available**. If you're a collaborator, please request access.
 
@@ -85,6 +85,5 @@ The source code is **not publicly available**. If you're a collaborator, please 
 
 **Rania Jarral**  
 Email: raniajarral9.email@gmail.com  
-GitHub: [@raniajarral](https://github.com/raniajarral)
 
 ---
