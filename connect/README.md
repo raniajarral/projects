@@ -7,7 +7,7 @@ Connect Cards is a tap-to-share business profile app built for students, profess
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Display Profile Info**: Name, bio, and occupation
 - **Show Contact Info**: Email and phone (tap-to-call and email)
@@ -20,16 +20,16 @@ Connect Cards is a tap-to-share business profile app built for students, profess
 
 ---
 
-## 📸 Preview
+## Preview
 
 > This project is private, but here’s a look at what it does:
-
+https://your-profile.web.app/rania
 - ![screenshot1](profile2.jpg)
 - ![screenshot2](profile1.jpg)
 
 ---
 
-## 🔒 Code Access
+## Code Access
 
 The source code is **not publicly available**. If you're a collaborator, please request access. For demos, reach out directly.
 
