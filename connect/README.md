@@ -23,7 +23,7 @@ Connect Cards is a tap-to-share business profile app built for students, profess
 ## Preview
 
 > This project is private, but here’s a look at what it does:
-https://your-profile.web.app/rania
+https://your-profile.web.app/mobin
 - ![screenshot1](profile2.jpg)
 - ![screenshot2](profile1.jpg)
 
@@ -39,6 +39,4 @@ The source code is **not publicly available**. If you're a collaborator, please 
 
 **Rania Jarral**  
 Email: raniajarral9.email@gmail.com  
-GitHub: [@raniajarral](https://github.com/raniajarral)
-
 ---
