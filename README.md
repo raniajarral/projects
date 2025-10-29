@@ -19,17 +19,10 @@ A mobile/web app that allows users to edit and personalize their Connect Card pr
 An internal-use mobile admin app for tracking orders, managing affiliates and clients, and editing team data. Built for operational control in a business setting.
 
 <!-- Uncomment when PaylyDaily is added
-### 💰 [PaylyDaily – Lending Dashboard App](./paylydaily/README.md)
+### [PaylyDaily – Lending Dashboard App](./paylydaily/README.md)
 A mobile-first dashboard for managing loans, repayments, and client records. Built for small lending businesses needing streamlined recordkeeping.
 -->
 
----
-
-## Notes
-
-- Most projects are **private**
-- Screenshots are included in each folder to preview the UI.
-- Some projects are actively used in real-world settings, others are experimental, while some are still under construction.
 
 ---
 
