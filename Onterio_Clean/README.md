@@ -1,6 +1,6 @@
 # Ontario Window Cleaners - Mockup Landing Page
 
-This is a **mockup landing page** designed for a professional window cleaning brand based in Ontario. Built with React, TypeScript, and Tailwind CSS, the page showcases modern design, performance optimization, and responsive UI practices. It is not connected to any backend or live client data—built purely for demonstration and prototyping purposes.
+This is a simple **mockup landing page** designed for a professional window cleaning brand based in Ontario. Built with React, TypeScript, and Tailwind CSS, the page showcases modern design, performance optimization, and responsive UI practices. It is not connected to any backend or live client data—built purely for demonstration and prototyping purposes.
 
 ## 🔗 Live Site
 
@@ -99,5 +99,4 @@ ontario_clean/
 ---
 
 **GitHub**: [@raniajarral](https://github.com/raniajarral)  
-**Email**: raniajarralyt@gmail.com  
-**Made with ❤️ by Rania**
+**Email**: rania.jarral@connectprax.com
