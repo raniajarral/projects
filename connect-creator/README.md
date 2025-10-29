@@ -1,7 +1,6 @@
 # Connect Cards Creator – Digital Profile Builder for NFC
 
 **Type:** Mobile App • **Built With:** Flutter + Firebase Firestore  
-**Status:** Private (Code not publicly available)
 
 Connect Cards Creator is a dynamic profile-building app made for admins and affiliates who need to create, manage, and share digital business cards. With distinct modes for Basic and Premium users, it offers a flexible and scalable system to generate stylish profiles linked to QR codes or NFC smart cards.
 
@@ -75,15 +74,9 @@ Connect Cards Creator is a dynamic profile-building app made for admins and affi
 
 ---
 
-## Code Access
-
-The source code is **not publicly available**. If you're a collaborator, please request access.
-
----
-
 ## 🧑‍💻 Built By
 
 **Rania Jarral**  
-Email: raniajarral9.email@gmail.com  
+Email: rania.jarral@connectprax.com  
 
 ---
