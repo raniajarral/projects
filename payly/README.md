@@ -1,4 +1,4 @@
-# Payly – Microfinance Admin App
+# Payly – Microfinance Admin App(Ongoing)
 
 **Type:** Mobile App • **Built With:** Kotlin (Native Android)  
 **Status:** Private (Code not publicly available)
@@ -48,15 +48,9 @@ Payly is a microfinance management app built for internal use by lending institu
 
 ---
 
-## Code Access
-
-The source code is **not publicly available**. 
-
----
-
-## Built By
+## Being Built By
 
 **Rania Jarral**  
-Email: raniajarral9.email@gmail.com  
+Email: rania.jarral@connectprax.com
 
 ---
