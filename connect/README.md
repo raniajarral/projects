@@ -1,7 +1,6 @@
 # Connect Cards – NFC Business Profile Viewer
 
 **Type:** Web • **Built With:** Flutter + Firebase Firestore  
-**Status:** Private (Code not publicly available)
 
 Connect Cards is a tap-to-share business profile app built for students, professionals, and freelancers. Users can instantly share a clean, fully customized personal profile using NFC or QR code technology. It focuses on a minimal, elegant presentation of the user’s key information.
 
@@ -29,14 +28,9 @@ https://your-profile.web.app/mobin
 
 ---
 
-## Code Access
-
-The source code is **not publicly available**. If you're a collaborator, please request access. For demos, reach out directly.
-
----
-
 ## 🧑‍💻 Built By
 
 **Rania Jarral**  
-Email: raniajarral9.email@gmail.com  
+Email: rania.jarral@connectprax.com
+
 ---
