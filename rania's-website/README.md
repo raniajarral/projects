@@ -2,8 +2,6 @@
 
 A clean, modern portfolio website showcasing my development skills and some of services.
 
-check out my [repo](https://github.com/raniajarral/my-portfolio-website.git)!
-
 ## 📁 Project Structure
 
 ```
@@ -32,27 +30,6 @@ check out my [repo](https://github.com/raniajarral/my-portfolio-website.git)!
 4. **Portfolio** - Featured projects showcase
 5. **Contact** - Contact form and information
 
-## How to Use
-### After cloning the repo you can...
-
-### Option 1: Open Locally
-Simply double-click `index.html` to open it in your web browser.
-
-### Option 2: Host Online
-Upload the entire folder to any web hosting service:
-- GitHub Pages
-- Netlify
-- Vercel
-- Any shared hosting provider
-
-### Option 3: Local Development
-If you want to make changes:
-1. Open `index.html` in any text editor
-2. Edit the HTML, or modify `styles.css` and `script.js`
-3. Refresh your browser to see changes
-
-## Customization
-
 The website is built with separate HTML, CSS, and JavaScript files for easy customization:
 
 1. **Colors**: Modify the CSS variables in `styles.css`
@@ -61,11 +38,3 @@ The website is built with separate HTML, CSS, and JavaScript files for easy cust
 4. **Functionality**: Modify interactions in `script.js`
 5. **Images**: Replace images in the `picture/` folder
 6. **Contact Info**: Update email and GitHub links in the contact section
-
-## Contact Information
-
-- **Email**: raniajarral9@gmail.com
-
----
-
-Built with ❤️ by Rania
