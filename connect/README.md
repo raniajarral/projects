@@ -1,4 +1,4 @@
-# Connect Cards – NFC Business Profile Viewer
+# Connect Cards – NFC Business Profile
 
 **Type:** Web • **Built With:** Flutter + Firebase Firestore  
 
@@ -16,7 +16,7 @@ Connect Cards is a tap-to-share business profile app built for students, profess
 - **QR Code Sharing**: Share via QR for non-NFC devices
 - **Live Styling**: Themes reflect instantly on profile
 - **Fully Responsive**: Optimized for mobile viewing
-
+- **Upcoming UI changes!!**
 ---
 
 ## Preview
